@@ -1,1 +1,2 @@
 this is for conflict example--line 2
+this is for user1
